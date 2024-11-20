@@ -1,6 +1,9 @@
-# odin-recipes
-Practice site for The Odin Project
+# Practice site for The Odin Project
 
-# Link
+## View project
 
-https://www.theodinproject.com/lessons/foundations-recipes
+[https://jesslark.github.io/odin-recipes/](https://jesslark.github.io/odin-recipes/)
+
+## Odin Instructions
+
+[https://www.theodinproject.com/lessons/foundations-recipes](https://www.theodinproject.com/lessons/foundations-recipes)
